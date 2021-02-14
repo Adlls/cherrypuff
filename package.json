@@ -28,6 +28,7 @@
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "phaser3-rex-plugins": "^1.1.39"
   }
 }
